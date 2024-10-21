@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(yellow, orange, green);
+    background-repeat: no-repeat;
+    height: 500px;
+}
+h1{
+    text-align: center;
+}
+button{
+    margin-left: 700px;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+}
